@@ -13,10 +13,10 @@ const k = kaplay(
             jump: {
                 keyboard: ["space"],
                 mouse: "left",
-                  },
-                 },
-        debugKey:"d",
-        debug:true,
+            },
+        },
+        debugKey: "d",
+        debug: true,
 
     });
 export default k;
